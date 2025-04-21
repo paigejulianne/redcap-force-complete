@@ -1,0 +1,27 @@
+{
+  "name": "Force Complete for REDCap",
+  "description": "Force a form closed, even if it has missing or invalid fields",
+  "documentation": "README.md",
+  "namespace": "paigejulianne\\Force_Complete",
+  "versions": [
+    {
+      "0.0.1": "Development release"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Paige Julianne Sullivan",
+      "email": "redcap@paigejulianne.com",
+      "institution": "Johns Hopkins University"
+    }
+  ],
+  "framework-version": 12,
+
+  "compatibility": {
+    "php-version-min": "7.9.0",
+    "php-version-max": "",
+    "redcap-version-min": "13.1.2",
+    "redcap-version-max": ""
+  }
+
+}
