@@ -1,7 +1,6 @@
 {
-  "name": "Force Complete for REDCap",
-  "description": "Force a form closed, even if it has missing or invalid fields",
-  "documentation": "README.md",
+  "name": "Force Complete",
+  "description": "Adds a button for superusers to 'Force Close' a form (ignores missing/invalid fields)",
   "namespace": "paigejulianne\\Force_Complete",
   "versions": [
     {
